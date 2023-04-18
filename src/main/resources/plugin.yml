@@ -1,0 +1,4 @@
+name: Survival
+version: '${project.version}'
+main: de.devsnx.survival.Survival
+api-version: 1.19
