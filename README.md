@@ -5,3 +5,4 @@ A Plugin for Simple Survival Servers
 - Scoreboard
 - Playtime
 - Achievements
+- Stats
