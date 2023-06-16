@@ -1,7 +1,7 @@
 package de.devsnx.survival.manager;
 
 import de.devsnx.survival.Survival;
-import de.devsnx.survival.UTILS.Utils;
+import de.devsnx.survival.utils.Utils;
 import org.bukkit.Bukkit;
 import org.bukkit.Statistic;
 import org.bukkit.entity.Player;
@@ -40,12 +40,12 @@ public class ScoreboardManager {
         Team teamAdmin = board.registerNewTeam("ATeamAdmin");
         Team teamSpieler = board.registerNewTeam("BTeamSpieler");
 
-        teamAdmin.setPrefix("§cCrew §8| §7");
-        teamSpieler.setPrefix("§bCrew §8| §7");
+        teamAdmin.setPrefix("§cAdmin §8| §7");
+        teamSpieler.setPrefix("§bSpieler §8| §7");
 
         Objective sidebar = board.registerNewObjective("Sidebar", "dummy");
         sidebar.setDisplaySlot(DisplaySlot.SIDEBAR);
-        sidebar.setDisplayName("§l§f─═ §bD§7ie§bC§7rew§bL§7ine §f§l═─");
+        sidebar.setDisplayName("§l§f─═ §bT§7uradox §f§l═─");
 
 
         Team teamRang = board.registerNewTeam("rang");
@@ -84,9 +84,9 @@ public class ScoreboardManager {
         onlineplayer.setSuffix(" §6" + Bukkit.getOnlinePlayers().size()+ "§8/§7" + Bukkit.getServer().getMaxPlayers());
         teamPlaytime.setSuffix(Utils.formatTime(forWhom.getStatistic(Statistic.PLAY_ONE_MINUTE)));
         if(forWhom.isOp()){
-            teamRang.setSuffix(" §8" + "§cCrew");
+            teamRang.setSuffix(" §8" + "§cAdmin");
         }else{
-            teamRang.setSuffix(" §8" + "§bCrew");
+            teamRang.setSuffix(" §8" + "§bSpieler");
         }
 
     }

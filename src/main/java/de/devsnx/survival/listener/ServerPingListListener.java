@@ -13,7 +13,7 @@ public class ServerPingListListener implements Listener {
     @EventHandler
     public void onServerListPing(ServerListPingEvent event){
         event.setMaxPlayers(128);
-        event.setMotd("§bD§7ie§bC§7rew§bL§7ine.de §8- §a§lModserver");
+        event.setMotd("§b§lT§7uradox.eu §8- §a§lDein Citybuild Server!");
     }
 
 }
