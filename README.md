@@ -4,7 +4,10 @@ A Plugin for Simple Citybuild Server
 # Features
 - Scoreboard
 - Playtime
-- Stats
+- Combat System
+- Safe Trade System
+- Stats System
+- Money System
 - Kits
 - Ban/Kick/Mute System
 - Jobs
