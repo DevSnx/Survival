@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b586863c-7af4-48ec-98bf-843355637aba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/SimpleCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/ban/CommandBan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/ban/CommandKick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/ban/CommandMute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/ban/CommandTempban.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/ban/CommandUnban.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/essentials/CommandBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/essentials/CommandSpawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/commands/turadox/CommandUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/UTILS/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/listener/ServerPingListListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/listener/ServerPingListListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/manager/ScoreboardManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/devsnx/survival/manager/ScoreboardManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Survival-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Survival-1.0.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/de/devsnx/survival/listener/ServerPingListListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/devsnx/survival/listener/ServerPingListListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/de/devsnx/survival/manager/ScoreboardManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/devsnx/survival/manager/ScoreboardManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/modpack.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-Survival-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-Survival-1.0.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/start.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
